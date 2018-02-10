@@ -5,7 +5,7 @@ addons:
    sonarcloud:
       organization: "madewithpaper-github"
       token:
-         secure: "Sonar_Token"
+         secure: b4e3849336041d206b8a7b3cf17514c0436fd0e3
 
 jdk:
    - oraclejdk8
